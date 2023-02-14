@@ -16,7 +16,6 @@ sidebar:
     phone: 617 780 2967
     timezone: America/New_York Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
     linkedin: james-whalen-6a0696a6
     github: jwhalen93
     telegram: # add your nickname without '@' sign
@@ -49,13 +48,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
+      Software engineer with 7 years of experience working in software
+      development. Experienced with working on software projects both large
+      and small, from front to back. Passionate about working on web applications
+      that have a measurable impact on end users. Values collaboration, ownership,
+      and mentorship. Proficient in Java web applications, agile methodologies such
+      as scrum and kanban, and cloud based architecture using AWS.
     title: Education
     info:
       - degree: BS in Computer Science
@@ -68,50 +66,27 @@ experiences:
         time: September 2021 - July 2022
         company: Firemon, Overland Park KS
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Bullet point
+          - Bullet point
       - role: Software Development Engineer II
         time: January 2020 - September 2021
         company: Audible, Cambridge MA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Bullet point
+          - Bullet point
       - role: Java Software Engineer
         time: April 2018 - January 2020
         company: Trux, Waltham MA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Helped develop the backend system for an "Uber for Dumptrucks" web and phone app.
+          - Collaborated closely with front end developers to design and develop microserves based on end user studies and feedback
+          - Lead the backend development and rollout of our updated backend to support our v2 phone app, which was a requirement for us to secure further funding from our largest client.
       - role: Full Stack Engineer
         time: July 2015 - April 2018
         company: Syntel, Quincy MA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Bullet point
+          - Bullet point
 skills:
     title: Skills &amp; Proficiency
 
