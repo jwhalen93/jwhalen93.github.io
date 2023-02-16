@@ -45,6 +45,13 @@ sidebar:
         - item: Cooking
           link:
 
+    education:
+      title: Education
+      info:
+      - degree: BS in Computer Science
+        university: University of Massachusetts Lowell
+        time: 2011 - 2015
+
 career-profile:
     title: Career Profile
     summary: |
@@ -54,19 +61,15 @@ career-profile:
       that have a measurable impact on end users. Values collaboration, ownership,
       and mentorship. Proficient in Java web applications, agile methodologies such
       as scrum and kanban, and cloud based architecture using AWS.
-    title: Education
-    info:
-      - degree: BS in Computer Science
-        university: University of Massachusetts Lowell
-        time: 2011 - 2015
+    
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Support Software Engineer
         time: September 2021 - July 2022
         company: Firemon, Overland Park KS
         details: |
-          - Bullet point
+          - Worked 
           - Bullet point
       - role: Software Development Engineer II
         time: January 2020 - September 2021
