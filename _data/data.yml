@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: /assets/docs/James_Whalen_Resume.pdf
 
     languages:
       title: Languages
@@ -39,29 +39,28 @@ sidebar:
         - item: VR
           link:
 
+        - item: Game Development
+          link:
+
         - item: Guitar
           link:
 
         - item: Cooking
           link:
 
-    education:
+career-profile:
+    title: Career Profile
+    summary: |
+      Software engineer with 7 years of professional experience. Working as a full stack developer using SQL databases, Java with Spring and Dropwizard frameworks for RESTful webservices, and HTML/CSS with Bootstrap and Javascript. Passionate about working on web applications
+      that have a measurable impact on end users. Values collaboration, ownership,
+      and mentorship. Proficient in Java web applications, agile methodologies such
+      as scrum and kanban, and cloud based architecture using AWS.
+education:
       title: Education
       info:
       - degree: BS in Computer Science
         university: University of Massachusetts Lowell
-        time: 2011 - 2015
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Software engineer with 7 years of experience working in software
-      development. Experienced with working on software projects both large
-      and small, from front to back. Passionate about working on web applications
-      that have a measurable impact on end users. Values collaboration, ownership,
-      and mentorship. Proficient in Java web applications, agile methodologies such
-      as scrum and kanban, and cloud based architecture using AWS.
-    
+        time: 2011 - 2015    
 experiences:
     title: Experience
     info:
@@ -69,45 +68,62 @@ experiences:
         time: September 2021 - July 2022
         company: Firemon, Overland Park KS
         details: |
-          - Worked 
-          - Bullet point
+          Worked closely with NetSec engineers and the feature development team to debug and test fixes, including quick fixes for single customers, and long term fixes for the entire application.
+            -	Fixed unicode decode issues with our EMEA clients which was causing errors due to character set differences not accounted for. I worked closely with Network Security engineers and senior Python developers
+            to get up to speed on a language i was still learning, and implement a fix that we verified with the customer and would no longer impact customers from that market or any market with similar character differences.
       - role: Software Development Engineer II
         time: January 2020 - September 2021
         company: Audible, Cambridge MA
         details: |
-          - Bullet point
-          - Bullet point
+          Developed new features for and maintained all of Audible's touch points on Amazon surfaces. That includes Amazon.com, Alexa, and mobile apps. 
+          - Met with Product Owners and UI/UX developers to gather requirements and create designs to help develop the new Membership Landing Page for Audible customers on Amazon.com. This was 
+          a full stack development feature that included calls to various Amazon services and using dependency injection in order to build the data we needed. I wrote code in HTML/CSS and Javascrip on the page's existing JSP to add a the container that will hold the new feature.lp from UI/UX to help implement accessibility features and language preferences. 
+          - I lead initiatives when the Covid-19 pandemic began to keep the spirit of collaboration. I instituted bi-weekly “Happy Hours” during the last hour on Fridays for the time to unwind and have some fun. I also introduced a “Virtual Office Hour” for the team once a week so that everyone could hop on the same meeting and ask questions, chat, or just simply work while being with everyone virtually.
+
+          
       - role: Java Software Engineer
         time: April 2018 - January 2020
         company: Trux, Waltham MA
         details: |
-          - Helped develop the backend system for an "Uber for Dumptrucks" web and phone app.
-          - Collaborated closely with front end developers to design and develop microserves based on end user studies and feedback
-          - Lead the backend development and rollout of our updated backend to support our v2 phone app, which was a requirement for us to secure further funding from our largest client.
+          Hired on as one of the first backend java engineers to this startup, i helped develop the backend system for an "Uber for Dumptrucks" web and phone app.
+          - Collaborated closely with front end developers to design and develop microservices using Dropwizard and design POJOs to be stored in our MySQL database using JDBI based on end user feedback
+          - Lead the development of new data models and REST endpoints to support our v2 phone app which required us to standardize our two distinct types of jobs the end user accepts. It was successfully implemented and was a requirement for us to secure further funding from our largest client.
       - role: Full Stack Engineer
-        time: July 2015 - April 2018
-        company: Syntel, Quincy MA
+        time: May 2015 - April 2018
+        company: Atos Syntel, Quincy MA
         details: |
-          - Bullet point
-          - Bullet point
+          Joined Atos Syntel soon after graduating, and was assigned to the client State Street Bank. I worked on a team of full stack developers to develop 
+          applications internally, with a focus on making legacy applications easier to use.
+          - Wrote, deployed, and maintained a full stack application using Struts 2, HTML/CSS with Bootstrap, and Javascript with jQuery.
+          Took ownership of designing a website that allowed bank employees to access legacy autosys scripts using a web application instead 
+          of being forced to manually log into individual servers. Over two thousand scripts across hundreds of servers were onboarded to the 
+          web application, simplifying the process and saving time.
+          - Began the project to update our web application by using Spring to design RESTful web apis, and React to design a more modern and reactful front end. A user favorite's table was implemented using React and Axios combined with Spring as my last contribution to the project.
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Java
         level: 98%
+      
+      - name: Git
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 66%
+      - name: Agile
+        level: 92%
+
+      - name: RESTful web services
+        level: 86%
+
+      - name: SQL Databases
+        level: 85%
 
       - name: HTML5 & CSS
         level: 75%
 
-      - name: MySQL
-        level: 85%
+      - name: Javascript
+        level: 70%
 
-      - name: Spring
-        level: 86%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
