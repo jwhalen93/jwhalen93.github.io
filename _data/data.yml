@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software engineer with 7 years of professional experience. Working as a full stack developer using SQL databases, Java with Spring and Dropwizard frameworks for RESTful webservices, and HTML/CSS with Bootstrap and Javascript. Passionate about working on web applications
+      Software engineer with 7 years of professional experience. Working as a full stack engineer using SQL databases, Java with Spring and Dropwizard frameworks for RESTful webservices, and HTML/CSS with Bootstrap and Javascript. Passionate about working on web applications
       that have a measurable impact on end users. Values collaboration, ownership,
       and mentorship. Proficient in Java web applications, agile methodologies such
       as scrum and kanban, and cloud based architecture using AWS.
@@ -86,13 +86,13 @@ experiences:
         company: Trux, Waltham MA
         details: |
           Hired on as one of the first backend java engineers to this startup, i helped develop the backend system for an "Uber for Dumptrucks" web and phone app.
-          - Collaborated closely with front end developers to design and develop microservices using Dropwizard and design POJOs to be stored in our MySQL database using JDBI based on end user feedback
+          - Collaborated closely with front end engineers to design and develop microservices using Dropwizard and design POJOs to be stored in our MySQL database using JDBI based on end user feedback
           - Lead the development of new data models and REST endpoints to support our v2 phone app which required us to standardize our two distinct types of jobs the end user accepts. It was successfully implemented and was a requirement for us to secure further funding from our largest client.
       - role: Full Stack Engineer
         time: May 2015 - April 2018
         company: Atos Syntel, Quincy MA
         details: |
-          Joined Atos Syntel soon after graduating, and was assigned to the client State Street Bank. I worked on a team of full stack developers to develop 
+          Joined Atos Syntel soon after graduating, and was assigned to the client State Street Bank. I worked on a team of full stack engineers to develop 
           applications internally, with a focus on making legacy applications easier to use.
           - Wrote, deployed, and maintained a full stack application using Struts 2, HTML/CSS with Bootstrap, and Javascript with jQuery.
           Took ownership of designing a website that allowed bank employees to access legacy autosys scripts using a web application instead 
