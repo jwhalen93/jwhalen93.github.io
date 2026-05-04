@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software engineer with 7 years of professional experience. Working as a full stack engineer using SQL databases, Java with Spring and Dropwizard frameworks for RESTful webservices, and HTML/CSS with Bootstrap and Javascript. Passionate about working on web applications
+      Software engineer with 10 years of professional experience. Working as a full stack engineer using SQL databases, Java with Spring and Dropwizard frameworks for RESTful webservices, and HTML/CSS with Bootstrap and Javascript. Passionate about working on web applications
       that have a measurable impact on end users. Values collaboration, ownership,
       and mentorship. Proficient in Java web applications, agile methodologies such
       as scrum and kanban, and cloud based architecture using AWS.
@@ -68,7 +68,7 @@ experiences:
         time: March 2023 - May 2026  
         company: Take2 It, Vienna VA (Remote). Contractor for Dept. of Veterans Affairs  
         details: |
-          - Worked on Java-based full-stack applications using Spring and AngularJS, collaborating with DevOps and QA teams to deliver features aligned with stakeholder needs and maintain application stability. 
+          Worked on Java-based full-stack applications using Spring and AngularJS, collaborating with DevOps and QA teams to deliver features aligned with stakeholder needs and maintain application stability. 
           - Led the design and implementation of an AWS-based solution to migrate millions of data files between S3 buckets as part of a "monolith to microservices" initiative across the org, utilizing S3, SNS, SQS, and Lambda to process and transfer individual PDF files while ensuring accurate updates to associated veteran records. 
           - Developed a cross-application data transfer feature using ReactJS and Spring, enabling users to send veteran data between systems with a single action, eliminating manual cross-checking and improving workflow efficiency. Implemented new Spring controllers and endpoints along with frontend integration using Axios.
           - Managed full release cycles, coordinating deployments, testing, and issue resolution to meet delivery timelines and maintain high-quality standards.
@@ -76,7 +76,7 @@ experiences:
         time: September 2021 - July 2022
         company: Firemon, Overland Park KS (Remote)
         details: |
-            - Worked closely with NetSec engineers and the feature development team to debug and test fixes, including quick fixes for single customers, and long term fixes for the entire application.
+          Worked closely with NetSec engineers and the feature development team to debug and test fixes, including quick fixes for single customers, and long term fixes for the entire application.
             -	Fixed unicode decode issues with our EMEA clients which was causing errors due to character set differences not accounted for. I worked closely with Network Security engineers and senior Python developers
             to get up to speed on a language i was still learning, and implement a fix that we verified with the customer and would no longer impact customers from that market or any market with similar character differences.
       - role: Software Development Engineer II
